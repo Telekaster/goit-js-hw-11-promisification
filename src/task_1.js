@@ -1,5 +1,5 @@
 // Task-1____________________________________________________________
-
+export
 const delay = ms => {
     const promise = new Promise((resolve, reject) => {
         setTimeout(() => {
